@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2024004720_49975\\Desktop\\chapter1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3F49A1-8EE6-4A27-AF92-ADF734BD8DDF}|chapter1\\chapter1.vcxproj|C:\\Users\\2024004720_49975\\Desktop\\chapter1\\chapter1\\1-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA3F49A1-8EE6-4A27-AF92-ADF734BD8DDF}|chapter1\\chapter1.vcxproj|solutionrelative:chapter1\\1-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3F49A1-8EE6-4A27-AF92-ADF734BD8DDF}|chapter1\\chapter1.vcxproj|C:\\Users\\2024004720_49975\\Desktop\\chapter1\\chapter1\\1-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA3F49A1-8EE6-4A27-AF92-ADF734BD8DDF}|chapter1\\chapter1.vcxproj|solutionrelative:chapter1\\1-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3F49A1-8EE6-4A27-AF92-ADF734BD8DDF}|chapter1\\chapter1.vcxproj|C:\\Users\\2024004720_49975\\Desktop\\chapter1\\chapter1\\1-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA3F49A1-8EE6-4A27-AF92-ADF734BD8DDF}|chapter1\\chapter1.vcxproj|solutionrelative:chapter1\\1-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA3F49A1-8EE6-4A27-AF92-ADF734BD8DDF}|chapter1\\chapter1.vcxproj|C:\\Users\\2024004720_49975\\Desktop\\chapter1\\chapter1\\1-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BA3F49A1-8EE6-4A27-AF92-ADF734BD8DDF}|chapter1\\chapter1.vcxproj|solutionrelative:chapter1\\1-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1-4.cpp",
+              "DocumentMoniker": "C:\\Users\\2024004720_49975\\Desktop\\chapter1\\chapter1\\1-4.cpp",
+              "RelativeDocumentMoniker": "chapter1\\1-4.cpp",
+              "ToolTip": "C:\\Users\\2024004720_49975\\Desktop\\chapter1\\chapter1\\1-4.cpp",
+              "RelativeToolTip": "chapter1\\1-4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T14:20:31.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1-3.cpp",
+              "DocumentMoniker": "C:\\Users\\2024004720_49975\\Desktop\\chapter1\\chapter1\\1-3.cpp",
+              "RelativeDocumentMoniker": "chapter1\\1-3.cpp",
+              "ToolTip": "C:\\Users\\2024004720_49975\\Desktop\\chapter1\\chapter1\\1-3.cpp",
+              "RelativeToolTip": "chapter1\\1-3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T14:20:04.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1-2.cpp",
+              "DocumentMoniker": "C:\\Users\\2024004720_49975\\Desktop\\chapter1\\chapter1\\1-2.cpp",
+              "RelativeDocumentMoniker": "chapter1\\1-2.cpp",
+              "ToolTip": "C:\\Users\\2024004720_49975\\Desktop\\chapter1\\chapter1\\1-2.cpp",
+              "RelativeToolTip": "chapter1\\1-2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T14:19:30.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "1-1.cpp",
+              "DocumentMoniker": "C:\\Users\\2024004720_49975\\Desktop\\chapter1\\chapter1\\1-1.cpp",
+              "RelativeDocumentMoniker": "chapter1\\1-1.cpp",
+              "ToolTip": "C:\\Users\\2024004720_49975\\Desktop\\chapter1\\chapter1\\1-1.cpp",
+              "RelativeToolTip": "chapter1\\1-1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T14:16:57.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
