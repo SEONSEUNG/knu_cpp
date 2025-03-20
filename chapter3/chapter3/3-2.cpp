@@ -3,6 +3,7 @@
 #include <string>
 using namespace std;
 
+/*
 class Date{
 	int year, month, day;
 public:
@@ -19,10 +20,11 @@ Date::Date(int y, int m, int d) {
 }
 
 Date::Date(string s){
-	int locate = s.find('/');
-	year = stoi(s);
-	month n2 = 
-	day n3 =
+	int find1 = s.find('/');
+	int find2 = s.find('/', find1 + 1);
+	year = stoi(s.substr(0,find1));
+	month = stoi(s.substr(find1 + 1, find2));
+	day = stoi(s.substr(find2 + 1));
 }
 
 int Date::getYear() {
@@ -49,3 +51,4 @@ int main() {
 	cout << birth.getYear() << ',' << birth.getMonth() << ',' << birth.getDay() << endl;
 
 }
+*/
