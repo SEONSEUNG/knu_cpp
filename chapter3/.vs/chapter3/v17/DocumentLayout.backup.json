@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC00\\Desktop\\github\\chapter3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|C:\\Users\\PC00\\Desktop\\github\\chapter3\\chapter3\\3-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\3-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|C:\\Users\\PC00\\Desktop\\github\\chapter3\\chapter3\\3-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\3-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3-2.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\github\\chapter3\\chapter3\\3-2.cpp",
+              "RelativeDocumentMoniker": "chapter3\\3-2.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\github\\chapter3\\chapter3\\3-2.cpp*",
+              "RelativeToolTip": "chapter3\\3-2.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T07:42:55.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3-1.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\github\\chapter3\\chapter3\\3-1.cpp",
+              "RelativeDocumentMoniker": "chapter3\\3-1.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\github\\chapter3\\chapter3\\3-1.cpp",
+              "RelativeToolTip": "chapter3\\3-1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T07:36:37.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

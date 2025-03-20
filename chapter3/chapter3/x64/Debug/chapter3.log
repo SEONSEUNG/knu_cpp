@@ -1,0 +1,3 @@
+﻿  3-2.cpp
+C:\Users\PC00\Desktop\github\chapter3\chapter3\3-2.cpp(22,10): warning C4101: 'n2' :참조되지 않은 지역 변수입니다.
+C:\Users\PC00\Desktop\github\chapter3\chapter3\3-2.cpp(23,1): error C4700: 초기화되지 않은 'n1' 지역 변수를 사용했습니다.
