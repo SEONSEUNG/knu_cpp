@@ -1,12 +1,275 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2024004720_49975\\Desktop\\github\\chapter3\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\3-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-12_header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\3-12_header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-12_cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\3-12_cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\3-12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-11_cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\3-11_cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\3-11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-10_cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\3-10_cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\3-10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\3-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\3-8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\3-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\3-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\3-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\3-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C9F0B934-B672-40D4-871A-1E3DC1BEC5F4}|chapter3\\chapter3.vcxproj|solutionrelative:chapter3\\3-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "3-11.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-11.cpp",
+              "RelativeDocumentMoniker": "chapter3\\3-11.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-11.cpp",
+              "RelativeToolTip": "chapter3\\3-11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:30:44.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "3-11_cpp.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-11_cpp.cpp",
+              "RelativeDocumentMoniker": "chapter3\\3-11_cpp.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-11_cpp.cpp",
+              "RelativeToolTip": "chapter3\\3-11_cpp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:30:30.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "3-10.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-10.cpp",
+              "RelativeDocumentMoniker": "chapter3\\3-10.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-10.cpp",
+              "RelativeToolTip": "chapter3\\3-10.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:29:20.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "3-10_cpp.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-10_cpp.cpp",
+              "RelativeDocumentMoniker": "chapter3\\3-10_cpp.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-10_cpp.cpp",
+              "RelativeToolTip": "chapter3\\3-10_cpp.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:29:01.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "3-9.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-9.cpp",
+              "RelativeDocumentMoniker": "chapter3\\3-9.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-9.cpp",
+              "RelativeToolTip": "chapter3\\3-9.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:27:37.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "3-8.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-8.cpp",
+              "RelativeDocumentMoniker": "chapter3\\3-8.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-8.cpp",
+              "RelativeToolTip": "chapter3\\3-8.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:26:51.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "3-7.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-7.cpp",
+              "RelativeDocumentMoniker": "chapter3\\3-7.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-7.cpp",
+              "RelativeToolTip": "chapter3\\3-7.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:25:59.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "3-6.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-6.cpp",
+              "RelativeDocumentMoniker": "chapter3\\3-6.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-6.cpp",
+              "RelativeToolTip": "chapter3\\3-6.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:25:27.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "3-5.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-5.cpp",
+              "RelativeDocumentMoniker": "chapter3\\3-5.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-5.cpp",
+              "RelativeToolTip": "chapter3\\3-5.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:24:47.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "3-4.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-4.cpp",
+              "RelativeDocumentMoniker": "chapter3\\3-4.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-4.cpp",
+              "RelativeToolTip": "chapter3\\3-4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:23:59.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "3-2.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-2.cpp",
+              "RelativeDocumentMoniker": "chapter3\\3-2.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-2.cpp",
+              "RelativeToolTip": "chapter3\\3-2.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:21:41.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "3-3.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-3.cpp",
+              "RelativeDocumentMoniker": "chapter3\\3-3.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-3.cpp",
+              "RelativeToolTip": "chapter3\\3-3.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:21:37.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3-12_cpp.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-12_cpp.cpp",
+              "RelativeDocumentMoniker": "chapter3\\3-12_cpp.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-12_cpp.cpp",
+              "RelativeToolTip": "chapter3\\3-12_cpp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:06:53.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3-12_header.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-12_header.h",
+              "RelativeDocumentMoniker": "chapter3\\3-12_header.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-12_header.h",
+              "RelativeToolTip": "chapter3\\3-12_header.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T14:06:47.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3-12.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-12.cpp",
+              "RelativeDocumentMoniker": "chapter3\\3-12.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\github\\chapter3\\chapter3\\3-12.cpp",
+              "RelativeToolTip": "chapter3\\3-12.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T14:06:18.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -128,8 +128,25 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="3-1.cpp" />
+    <ClCompile Include="3-10.cpp" />
+    <ClCompile Include="3-10_cpp.cpp" />
+    <ClCompile Include="3-11.cpp" />
+    <ClCompile Include="3-11_cpp.cpp" />
+    <ClCompile Include="3-12.cpp" />
+    <ClCompile Include="3-12_cpp.cpp" />
     <ClCompile Include="3-2.cpp" />
     <ClCompile Include="3-3.cpp" />
+    <ClCompile Include="3-4.cpp" />
+    <ClCompile Include="3-5.cpp" />
+    <ClCompile Include="3-6.cpp" />
+    <ClCompile Include="3-7.cpp" />
+    <ClCompile Include="3-8.cpp" />
+    <ClCompile Include="3-9.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="3-10_header.h" />
+    <ClInclude Include="3-11_header.h" />
+    <ClInclude Include="3-12_header.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
