@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3017B54-8AC2-4220-A54B-3F3ADFB1D234}|chapter4\\chapter4.vcxproj|C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-3-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3017B54-8AC2-4220-A54B-3F3ADFB1D234}|chapter4\\chapter4.vcxproj|solutionrelative:chapter4\\4-3-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3017B54-8AC2-4220-A54B-3F3ADFB1D234}|chapter4\\chapter4.vcxproj|C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3017B54-8AC2-4220-A54B-3F3ADFB1D234}|chapter4\\chapter4.vcxproj|solutionrelative:chapter4\\4-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3017B54-8AC2-4220-A54B-3F3ADFB1D234}|chapter4\\chapter4.vcxproj|C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3017B54-8AC2-4220-A54B-3F3ADFB1D234}|chapter4\\chapter4.vcxproj|solutionrelative:chapter4\\4-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4-3-1.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-3-1.cpp",
+              "RelativeDocumentMoniker": "chapter4\\4-3-1.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-3-1.cpp*",
+              "RelativeToolTip": "chapter4\\4-3-1.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T06:05:59.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "4-2.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-2.cpp",
+              "RelativeDocumentMoniker": "chapter4\\4-2.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-2.cpp",
+              "RelativeToolTip": "chapter4\\4-2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T06:00:13.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4-1.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-1.cpp",
+              "RelativeDocumentMoniker": "chapter4\\4-1.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-1.cpp",
+              "RelativeToolTip": "chapter4\\4-1.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T05:50:39.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
