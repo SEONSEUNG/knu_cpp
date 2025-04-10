@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3017B54-8AC2-4220-A54B-3F3ADFB1D234}|chapter4\\chapter4.vcxproj|C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F3017B54-8AC2-4220-A54B-3F3ADFB1D234}|chapter4\\chapter4.vcxproj|solutionrelative:chapter4\\4-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F3017B54-8AC2-4220-A54B-3F3ADFB1D234}|chapter4\\chapter4.vcxproj|C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3017B54-8AC2-4220-A54B-3F3ADFB1D234}|chapter4\\chapter4.vcxproj|solutionrelative:chapter4\\4-12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3017B54-8AC2-4220-A54B-3F3ADFB1D234}|chapter4\\chapter4.vcxproj|C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F3017B54-8AC2-4220-A54B-3F3ADFB1D234}|chapter4\\chapter4.vcxproj|solutionrelative:chapter4\\4-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{F3017B54-8AC2-4220-A54B-3F3ADFB1D234}|chapter4\\chapter4.vcxproj|C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3017B54-8AC2-4220-A54B-3F3ADFB1D234}|chapter4\\chapter4.vcxproj|solutionrelative:chapter4\\4-10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3017B54-8AC2-4220-A54B-3F3ADFB1D234}|chapter4\\chapter4.vcxproj|C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3017B54-8AC2-4220-A54B-3F3ADFB1D234}|chapter4\\chapter4.vcxproj|solutionrelative:chapter4\\4-11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3017B54-8AC2-4220-A54B-3F3ADFB1D234}|chapter4\\chapter4.vcxproj|C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F3017B54-8AC2-4220-A54B-3F3ADFB1D234}|chapter4\\chapter4.vcxproj|solutionrelative:chapter4\\4-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "4-4.cpp",
-              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-4.cpp",
-              "RelativeDocumentMoniker": "chapter4\\4-4.cpp",
-              "ToolTip": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-4.cpp*",
-              "RelativeToolTip": "chapter4\\4-4.cpp*",
-              "ViewState": "AgIAABEAAAAAAAAAAAAiwCAAAAATAAAAAAAAAA==",
+              "Title": "4-12.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-12.cpp",
+              "RelativeDocumentMoniker": "chapter4\\4-12.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-12.cpp*",
+              "RelativeToolTip": "chapter4\\4-12.cpp*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-03T08:27:06.094Z",
+              "WhenOpened": "2025-04-10T06:45:23.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4-11.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-11.cpp",
+              "RelativeDocumentMoniker": "chapter4\\4-11.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-11.cpp",
+              "RelativeToolTip": "chapter4\\4-11.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-10T05:56:15.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "4-6.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-6.cpp",
+              "RelativeDocumentMoniker": "chapter4\\4-6.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-6.cpp",
+              "RelativeToolTip": "chapter4\\4-6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-10T05:32:46.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "4-5.cpp",
-              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-5.cpp",
-              "RelativeDocumentMoniker": "chapter4\\4-5.cpp",
-              "ToolTip": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-5.cpp",
-              "RelativeToolTip": "chapter4\\4-5.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Title": "4-10.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-10.cpp",
+              "RelativeDocumentMoniker": "chapter4\\4-10.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\github\\chapter4\\chapter4\\4-10.cpp",
+              "RelativeToolTip": "chapter4\\4-10.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-03T08:14:45.571Z",
+              "WhenOpened": "2025-04-10T05:15:06.609Z",
               "EditorCaption": ""
             }
           ]

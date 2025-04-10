@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+/*
 class Sample {
 	int* p;
 	int size;
@@ -46,3 +47,4 @@ int main() {
 	s.write();
 	cout << "가장 큰 수는 " << s.big() << endl;
 }
+*/
