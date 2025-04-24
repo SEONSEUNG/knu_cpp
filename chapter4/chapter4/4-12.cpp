@@ -2,6 +2,8 @@
 #include <string>
 using namespace std;
 
+/*
+
 class Circle {
 	int radius;
 	string name;
@@ -17,7 +19,7 @@ void Circle::setCircle(string name, int radius) {
 }
 
 double Circle::getArea() {
-	return this->radius * this->radius * 3.141592;
+	return this->radius * this->radius * 3.14;
 }
 
 string Circle::getName() {
@@ -51,8 +53,8 @@ CircleManager::CircleManager(int size) {
 		blank = str.find(' ');
 		str_name = str.substr(0, blank);
 		str_radius = str.substr(blank + 1, str.size());
-		cout << str_radius;
-		//p[i].setCircle(str_name, stoi(str_radius));
+		//cout << str_radius;
+		p[i].setCircle(str_name, stoi(str_radius));
 
 	}
 }
@@ -69,25 +71,44 @@ void CircleManager::searchByName() {
 	cin >> find;
 
 	for (int i = 0; i < this->size; i++) {
-		if (p[i].getName() == find) cout << p[i].getName() << "의 면적은 " << p[i].getArea();
+		if (p[i].getName() == find) cout << p[i].getName() << "의 면적은 " << p[i].getArea() << endl;
 	}
+
 }
 
 void CircleManager::searchByArea() {
+
+	string find;
+	int fi;
+
+	cout << "최소 면적을 정수로 입력하세요 >> ";
+	cin >> find;
+	fi = stoi(find);
+
+	cout << fi << "보다 큰 원을 검색합니다." << endl;
+
+	for (int i = 0; i < this->size; i++) {
+		if (p[i].getArea() >= fi) {
+			cout << p[i].getName() << "의 면적은 " << p[i].getArea() << ",";
+		}
+	}
 
 }
 
 int main() {
 
+	string am;
 	int amount;
 
 	cout << "원의 개수 >> ";
-	cin >> amount;
+	getline(cin, am);
+	amount = stoi(am);
 	CircleManager circles(amount);
 
 	circles.searchByName();
 	circles.searchByArea();
 
-	
+	cout << endl;
 
 }
+*/

@@ -1,0 +1,3 @@
+﻿  ex7-2.cpp
+C:\Users\PC00\Desktop\github-0424\chapter7\chapter7\ex7-2.cpp(47,30): warning C4101: 'tmp_bonus' :참조되지 않은 지역 변수입니다.
+  chapter7.vcxproj -> C:\Users\PC00\Desktop\github-0424\chapter7\x64\Debug\chapter7.exe
