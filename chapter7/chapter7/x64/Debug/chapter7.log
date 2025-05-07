@@ -1,7 +1,2 @@
-﻿  7-7-2.cpp
-  7-8.cpp
-  7-9.cpp
-  코드를 생성하고 있습니다...
-C:\Users\2024004720_49975\Desktop\git\chapter7\chapter7\7-9.cpp(25,1): warning C4172: 지역 변수 또는 임시 : tmp의 주소를 반환하는 중
-C:\Users\2024004720_49975\Desktop\git\chapter7\chapter7\7-9.cpp(31,1): warning C4172: 지역 변수 또는 임시 : tmp의 주소를 반환하는 중
+﻿  7-9.cpp
   chapter7.vcxproj -> C:\Users\2024004720_49975\Desktop\git\chapter7\x64\Debug\chapter7.exe
