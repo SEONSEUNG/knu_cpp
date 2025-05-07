@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\2024004720_49975\\Desktop\\git\\chapter7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26905656-1A59-4090-92DA-2780E496BDD5}|chapter7\\chapter7.vcxproj|C:\\Users\\2024004720_49975\\Desktop\\git\\chapter7\\chapter7\\7-5-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{26905656-1A59-4090-92DA-2780E496BDD5}|chapter7\\chapter7.vcxproj|solutionrelative:chapter7\\7-5-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26905656-1A59-4090-92DA-2780E496BDD5}|chapter7\\chapter7.vcxproj|C:\\Users\\2024004720_49975\\Desktop\\git\\chapter7\\chapter7\\7-5-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{26905656-1A59-4090-92DA-2780E496BDD5}|chapter7\\chapter7.vcxproj|solutionrelative:chapter7\\7-5-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{26905656-1A59-4090-92DA-2780E496BDD5}|chapter7\\chapter7.vcxproj|C:\\Users\\2024004720_49975\\Desktop\\git\\chapter7\\chapter7\\7-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{26905656-1A59-4090-92DA-2780E496BDD5}|chapter7\\chapter7.vcxproj|solutionrelative:chapter7\\7-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "7-5-2.cpp",
-              "DocumentMoniker": "C:\\Users\\2024004720_49975\\Desktop\\git\\chapter7\\chapter7\\7-5-2.cpp",
-              "RelativeDocumentMoniker": "chapter7\\7-5-2.cpp",
-              "ToolTip": "C:\\Users\\2024004720_49975\\Desktop\\git\\chapter7\\chapter7\\7-5-2.cpp*",
-              "RelativeToolTip": "chapter7\\7-5-2.cpp*",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAkwC0AAAAcAAAAAAAAAA==",
+              "Title": "7-9.cpp",
+              "DocumentMoniker": "C:\\Users\\2024004720_49975\\Desktop\\git\\chapter7\\chapter7\\7-9.cpp",
+              "RelativeDocumentMoniker": "chapter7\\7-9.cpp",
+              "ToolTip": "C:\\Users\\2024004720_49975\\Desktop\\git\\chapter7\\chapter7\\7-9.cpp",
+              "RelativeToolTip": "chapter7\\7-9.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-07T08:28:26.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "7-5-1.cpp",
-              "DocumentMoniker": "C:\\Users\\2024004720_49975\\Desktop\\git\\chapter7\\chapter7\\7-5-1.cpp",
-              "RelativeDocumentMoniker": "chapter7\\7-5-1.cpp",
-              "ToolTip": "C:\\Users\\2024004720_49975\\Desktop\\git\\chapter7\\chapter7\\7-5-1.cpp*",
-              "RelativeToolTip": "chapter7\\7-5-1.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-07T08:18:09.601Z",
+              "WhenOpened": "2025-05-07T09:55:01.6Z",
               "EditorCaption": ""
             }
           ]
