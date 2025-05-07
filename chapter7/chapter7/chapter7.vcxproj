@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="7-1.cpp" />
+    <ClCompile Include="7-1-1.cpp" />
+    <ClCompile Include="7-1-2.cpp" />
+    <ClCompile Include="7-3.cpp" />
+    <ClCompile Include="7-5-1.cpp" />
+    <ClCompile Include="7-5-2.cpp" />
     <ClCompile Include="ex7-1.cpp" />
     <ClCompile Include="ex7-2.cpp" />
   </ItemGroup>
