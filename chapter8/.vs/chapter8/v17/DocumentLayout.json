@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC00\\Desktop\\git\\chapter8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{999F80AD-ADA7-4946-BFE8-0996397DDC6B}|chapter8\\chapter8.vcxproj|C:\\Users\\PC00\\Desktop\\git\\chapter8\\chapter8\\8-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{999F80AD-ADA7-4946-BFE8-0996397DDC6B}|chapter8\\chapter8.vcxproj|solutionrelative:chapter8\\8-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999F80AD-ADA7-4946-BFE8-0996397DDC6B}|chapter8\\chapter8.vcxproj|C:\\Users\\PC00\\Desktop\\git\\chapter8\\chapter8\\8-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{999F80AD-ADA7-4946-BFE8-0996397DDC6B}|chapter8\\chapter8.vcxproj|solutionrelative:chapter8\\8-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999F80AD-ADA7-4946-BFE8-0996397DDC6B}|chapter8\\chapter8.vcxproj|C:\\Users\\PC00\\Desktop\\git\\chapter8\\chapter8\\ex8-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{999F80AD-ADA7-4946-BFE8-0996397DDC6B}|chapter8\\chapter8.vcxproj|solutionrelative:chapter8\\ex8-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999F80AD-ADA7-4946-BFE8-0996397DDC6B}|chapter8\\chapter8.vcxproj|C:\\Users\\PC00\\Desktop\\git\\chapter8\\chapter8\\8-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{999F80AD-ADA7-4946-BFE8-0996397DDC6B}|chapter8\\chapter8.vcxproj|solutionrelative:chapter8\\8-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999F80AD-ADA7-4946-BFE8-0996397DDC6B}|chapter8\\chapter8.vcxproj|C:\\Users\\PC00\\Desktop\\git\\chapter8\\chapter8\\ex8-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{999F80AD-ADA7-4946-BFE8-0996397DDC6B}|chapter8\\chapter8.vcxproj|solutionrelative:chapter8\\ex8-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999F80AD-ADA7-4946-BFE8-0996397DDC6B}|chapter8\\chapter8.vcxproj|C:\\Users\\PC00\\Desktop\\git\\chapter8\\chapter8\\ex8-1test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{999F80AD-ADA7-4946-BFE8-0996397DDC6B}|chapter8\\chapter8.vcxproj|solutionrelative:chapter8\\ex8-1test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "8-5.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\git\\chapter8\\chapter8\\8-5.cpp",
+              "RelativeDocumentMoniker": "chapter8\\8-5.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\git\\chapter8\\chapter8\\8-5.cpp",
+              "RelativeToolTip": "chapter8\\8-5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T05:56:53.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "8-3.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\git\\chapter8\\chapter8\\8-3.cpp",
+              "RelativeDocumentMoniker": "chapter8\\8-3.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\git\\chapter8\\chapter8\\8-3.cpp",
+              "RelativeToolTip": "chapter8\\8-3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T05:56:50.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "8-1.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\git\\chapter8\\chapter8\\8-1.cpp",
+              "RelativeDocumentMoniker": "chapter8\\8-1.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\git\\chapter8\\chapter8\\8-1.cpp",
+              "RelativeToolTip": "chapter8\\8-1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T05:29:49.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ex8-3.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\git\\chapter8\\chapter8\\ex8-3.cpp",
+              "RelativeDocumentMoniker": "chapter8\\ex8-3.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\git\\chapter8\\chapter8\\ex8-3.cpp",
+              "RelativeToolTip": "chapter8\\ex8-3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T05:22:32.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ex8-1test.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\git\\chapter8\\chapter8\\ex8-1test.cpp",
+              "RelativeDocumentMoniker": "chapter8\\ex8-1test.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\git\\chapter8\\chapter8\\ex8-1test.cpp",
+              "RelativeToolTip": "chapter8\\ex8-1test.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T04:27:55.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ex8-1.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\git\\chapter8\\chapter8\\ex8-1.cpp",
+              "RelativeDocumentMoniker": "chapter8\\ex8-1.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\git\\chapter8\\chapter8\\ex8-1.cpp",
+              "RelativeToolTip": "chapter8\\ex8-1.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-08T04:24:27.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
