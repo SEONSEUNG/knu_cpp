@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\calculator">
+      <UniqueIdentifier>{3741c356-1374-4b5d-aa0a-bbd95fd478e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\실습문제">
+      <UniqueIdentifier>{3e433da8-72b6-4b83-8a3e-c7b5ad8b8ae6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\예제">
+      <UniqueIdentifier>{8dbd6d62-f88d-48ef-a5c7-d42bcfc17af1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\예제\가상 함수와 오버라이딩 활용 사례">
+      <UniqueIdentifier>{164bba8c-34d4-4827-a2eb-4e89689c4e3c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="calculator-1.cpp">
+      <Filter>소스 파일\calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="calculator-2.cpp">
+      <Filter>소스 파일\calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="calculator-3.cpp">
+      <Filter>소스 파일\calculator</Filter>
+    </ClCompile>
+    <ClCompile Include="9-1.cpp">
+      <Filter>소스 파일\실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="9-3.cpp">
+      <Filter>소스 파일\실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="9-5.cpp">
+      <Filter>소스 파일\실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="ex9-1.cpp">
+      <Filter>소스 파일\예제</Filter>
+    </ClCompile>
+    <ClCompile Include="ex9-1-quiz.cpp">
+      <Filter>소스 파일\예제</Filter>
+    </ClCompile>
+    <ClCompile Include="ex9-2-quiz.cpp">
+      <Filter>소스 파일\예제</Filter>
+    </ClCompile>
+    <ClCompile Include="ex9-6-quiz.cpp">
+      <Filter>소스 파일\예제</Filter>
+    </ClCompile>
+    <ClCompile Include="Line.cpp">
+      <Filter>소스 파일\예제\가상 함수와 오버라이딩 활용 사례</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일\예제\가상 함수와 오버라이딩 활용 사례</Filter>
+    </ClCompile>
+    <ClCompile Include="Rect.cpp">
+      <Filter>소스 파일\예제\가상 함수와 오버라이딩 활용 사례</Filter>
+    </ClCompile>
+    <ClCompile Include="Shape.cpp">
+      <Filter>소스 파일\예제\가상 함수와 오버라이딩 활용 사례</Filter>
+    </ClCompile>
+    <ClCompile Include="Circle.cpp">
+      <Filter>소스 파일\예제\가상 함수와 오버라이딩 활용 사례</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Line.h">
+      <Filter>소스 파일\예제\가상 함수와 오버라이딩 활용 사례</Filter>
+    </ClInclude>
+    <ClInclude Include="Rect.h">
+      <Filter>소스 파일\예제\가상 함수와 오버라이딩 활용 사례</Filter>
+    </ClInclude>
+    <ClInclude Include="Shape.h">
+      <Filter>소스 파일\예제\가상 함수와 오버라이딩 활용 사례</Filter>
+    </ClInclude>
+    <ClInclude Include="Circle.h">
+      <Filter>소스 파일\예제\가상 함수와 오버라이딩 활용 사례</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
