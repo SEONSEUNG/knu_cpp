@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+/*
 class Calculator {
 public:
 	virtual int add(int a, int b) = 0;
@@ -119,3 +120,4 @@ int main() {
 	
 	delete p;
 }
+*/

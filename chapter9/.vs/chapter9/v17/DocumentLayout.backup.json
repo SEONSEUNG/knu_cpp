@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC00\\Desktop\\git\\chapter9\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\git\\chapter9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C3D019B9-F6E7-4515-A335-A3615F54A4E3}|chapter9\\chapter9.vcxproj|C:\\Users\\PC00\\Desktop\\git\\chapter9\\chapter9\\ex9-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C3D019B9-F6E7-4515-A335-A3615F54A4E3}|chapter9\\chapter9.vcxproj|solutionrelative:chapter9\\ex9-6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C3D019B9-F6E7-4515-A335-A3615F54A4E3}|chapter9\\chapter9.vcxproj|C:\\Users\\Administrator\\Desktop\\git\\chapter9\\chapter9\\9-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D019B9-F6E7-4515-A335-A3615F54A4E3}|chapter9\\chapter9.vcxproj|solutionrelative:chapter9\\9-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D019B9-F6E7-4515-A335-A3615F54A4E3}|chapter9\\chapter9.vcxproj|C:\\Users\\Administrator\\Desktop\\git\\chapter9\\chapter9\\9-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D019B9-F6E7-4515-A335-A3615F54A4E3}|chapter9\\chapter9.vcxproj|solutionrelative:chapter9\\9-7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D019B9-F6E7-4515-A335-A3615F54A4E3}|chapter9\\chapter9.vcxproj|C:\\Users\\Administrator\\Desktop\\git\\chapter9\\chapter9\\9-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D019B9-F6E7-4515-A335-A3615F54A4E3}|chapter9\\chapter9.vcxproj|solutionrelative:chapter9\\9-5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D019B9-F6E7-4515-A335-A3615F54A4E3}|chapter9\\chapter9.vcxproj|C:\\Users\\Administrator\\Desktop\\git\\chapter9\\chapter9\\9-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D019B9-F6E7-4515-A335-A3615F54A4E3}|chapter9\\chapter9.vcxproj|solutionrelative:chapter9\\9-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D019B9-F6E7-4515-A335-A3615F54A4E3}|chapter9\\chapter9.vcxproj|C:\\Users\\Administrator\\Desktop\\git\\chapter9\\chapter9\\9-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D019B9-F6E7-4515-A335-A3615F54A4E3}|chapter9\\chapter9.vcxproj|solutionrelative:chapter9\\9-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D019B9-F6E7-4515-A335-A3615F54A4E3}|chapter9\\chapter9.vcxproj|C:\\Users\\Administrator\\Desktop\\git\\chapter9\\chapter9\\ex9-6-quiz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D019B9-F6E7-4515-A335-A3615F54A4E3}|chapter9\\chapter9.vcxproj|solutionrelative:chapter9\\ex9-6-quiz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +39,81 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ex9-6.cpp",
-              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\git\\chapter9\\chapter9\\ex9-6.cpp",
-              "RelativeDocumentMoniker": "chapter9\\ex9-6.cpp",
-              "ToolTip": "C:\\Users\\PC00\\Desktop\\git\\chapter9\\chapter9\\ex9-6.cpp",
-              "RelativeToolTip": "chapter9\\ex9-6.cpp",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAAAHIAAAAjAAAAAAAAAA==",
+              "Title": "9-9.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\git\\chapter9\\chapter9\\9-9.cpp",
+              "RelativeDocumentMoniker": "chapter9\\9-9.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\git\\chapter9\\chapter9\\9-9.cpp",
+              "RelativeToolTip": "chapter9\\9-9.cpp",
+              "ViewState": "AgIAAGwAAAAAAAAAAADwvwsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-21T11:18:06.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "9-7.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\git\\chapter9\\chapter9\\9-7.cpp",
+              "RelativeDocumentMoniker": "chapter9\\9-7.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\git\\chapter9\\chapter9\\9-7.cpp",
+              "RelativeToolTip": "chapter9\\9-7.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-21T11:16:47.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "9-5.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\git\\chapter9\\chapter9\\9-5.cpp",
+              "RelativeDocumentMoniker": "chapter9\\9-5.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\git\\chapter9\\chapter9\\9-5.cpp",
+              "RelativeToolTip": "chapter9\\9-5.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-21T11:16:01.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "9-3.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\git\\chapter9\\chapter9\\9-3.cpp",
+              "RelativeDocumentMoniker": "chapter9\\9-3.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\git\\chapter9\\chapter9\\9-3.cpp",
+              "RelativeToolTip": "chapter9\\9-3.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-21T11:15:14.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "9-1.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\git\\chapter9\\chapter9\\9-1.cpp",
+              "RelativeDocumentMoniker": "chapter9\\9-1.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\git\\chapter9\\chapter9\\9-1.cpp",
+              "RelativeToolTip": "chapter9\\9-1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-15T08:22:27.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ex9-6-quiz.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\git\\chapter9\\chapter9\\ex9-6-quiz.cpp",
+              "RelativeDocumentMoniker": "chapter9\\ex9-6-quiz.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\git\\chapter9\\chapter9\\ex9-6-quiz.cpp",
+              "RelativeToolTip": "chapter9\\ex9-6-quiz.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-15T07:13:45.302Z",
               "EditorCaption": ""

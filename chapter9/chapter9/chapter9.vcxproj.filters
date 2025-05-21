@@ -72,6 +72,12 @@
     <ClCompile Include="Circle.cpp">
       <Filter>소스 파일\예제\가상 함수와 오버라이딩 활용 사례</Filter>
     </ClCompile>
+    <ClCompile Include="9-7.cpp">
+      <Filter>소스 파일\실습문제</Filter>
+    </ClCompile>
+    <ClCompile Include="9-9.cpp">
+      <Filter>소스 파일\실습문제</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Line.h">
