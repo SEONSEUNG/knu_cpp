@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC00\\Desktop\\git\\chapter10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC1DDC-ED76-4BD8-8FD2-F1F51CE46F0F}|chapter10\\chapter10.vcxproj|C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-11-quiz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AFC1DDC-ED76-4BD8-8FD2-F1F51CE46F0F}|chapter10\\chapter10.vcxproj|solutionrelative:chapter10\\ex10-11-quiz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC1DDC-ED76-4BD8-8FD2-F1F51CE46F0F}|chapter10\\chapter10.vcxproj|C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AFC1DDC-ED76-4BD8-8FD2-F1F51CE46F0F}|chapter10\\chapter10.vcxproj|solutionrelative:chapter10\\ex10-11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC1DDC-ED76-4BD8-8FD2-F1F51CE46F0F}|chapter10\\chapter10.vcxproj|C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-9-quiz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AFC1DDC-ED76-4BD8-8FD2-F1F51CE46F0F}|chapter10\\chapter10.vcxproj|solutionrelative:chapter10\\ex10-9-quiz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC1DDC-ED76-4BD8-8FD2-F1F51CE46F0F}|chapter10\\chapter10.vcxproj|C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AFC1DDC-ED76-4BD8-8FD2-F1F51CE46F0F}|chapter10\\chapter10.vcxproj|solutionrelative:chapter10\\ex10-9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC1DDC-ED76-4BD8-8FD2-F1F51CE46F0F}|chapter10\\chapter10.vcxproj|C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-2-quiz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AFC1DDC-ED76-4BD8-8FD2-F1F51CE46F0F}|chapter10\\chapter10.vcxproj|solutionrelative:chapter10\\ex10-2-quiz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC1DDC-ED76-4BD8-8FD2-F1F51CE46F0F}|chapter10\\chapter10.vcxproj|C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AFC1DDC-ED76-4BD8-8FD2-F1F51CE46F0F}|chapter10\\chapter10.vcxproj|solutionrelative:chapter10\\ex10-2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AFC1DDC-ED76-4BD8-8FD2-F1F51CE46F0F}|chapter10\\chapter10.vcxproj|C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2AFC1DDC-ED76-4BD8-8FD2-F1F51CE46F0F}|chapter10\\chapter10.vcxproj|solutionrelative:chapter10\\ex10-1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex10-11-quiz.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-11-quiz.cpp",
+              "RelativeDocumentMoniker": "chapter10\\ex10-11-quiz.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-11-quiz.cpp",
+              "RelativeToolTip": "chapter10\\ex10-11-quiz.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T06:56:38.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ex10-11.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-11.cpp",
+              "RelativeDocumentMoniker": "chapter10\\ex10-11.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-11.cpp",
+              "RelativeToolTip": "chapter10\\ex10-11.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T06:52:23.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ex10-9-quiz.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-9-quiz.cpp",
+              "RelativeDocumentMoniker": "chapter10\\ex10-9-quiz.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-9-quiz.cpp",
+              "RelativeToolTip": "chapter10\\ex10-9-quiz.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T06:40:27.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ex10-9.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-9.cpp",
+              "RelativeDocumentMoniker": "chapter10\\ex10-9.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-9.cpp",
+              "RelativeToolTip": "chapter10\\ex10-9.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T06:38:23.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ex10-2-quiz.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-2-quiz.cpp",
+              "RelativeDocumentMoniker": "chapter10\\ex10-2-quiz.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-2-quiz.cpp",
+              "RelativeToolTip": "chapter10\\ex10-2-quiz.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T05:29:40.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ex10-2.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-2.cpp",
+              "RelativeDocumentMoniker": "chapter10\\ex10-2.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-2.cpp",
+              "RelativeToolTip": "chapter10\\ex10-2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T05:27:29.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ex10-1.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-1.cpp",
+              "RelativeDocumentMoniker": "chapter10\\ex10-1.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\git\\chapter10\\chapter10\\ex10-1.cpp",
+              "RelativeToolTip": "chapter10\\ex10-1.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-22T05:18:10.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
