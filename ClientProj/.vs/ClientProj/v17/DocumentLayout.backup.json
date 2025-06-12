@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC00\\Desktop\\git\\ClientProj\\",
+  "WorkspaceRootPath": "C:\\Users\\PC00\\Desktop\\git_0612\\ClientProj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2B62316-9D2E-4B56-8EBC-16F11F116672}|ClientProj\\ClientProj.vcxproj|C:\\Users\\PC00\\Desktop\\git\\ClientProj\\ClientProj\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B2B62316-9D2E-4B56-8EBC-16F11F116672}|ClientProj\\ClientProj.vcxproj|C:\\Users\\PC00\\Desktop\\git_0612\\ClientProj\\ClientProj\\final_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2B62316-9D2E-4B56-8EBC-16F11F116672}|ClientProj\\ClientProj.vcxproj|solutionrelative:ClientProj\\final_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B62316-9D2E-4B56-8EBC-16F11F116672}|ClientProj\\ClientProj.vcxproj|C:\\Users\\PC00\\Desktop\\git_0612\\ClientProj\\ClientProj\\clientmanager_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2B62316-9D2E-4B56-8EBC-16F11F116672}|ClientProj\\ClientProj.vcxproj|solutionrelative:ClientProj\\clientmanager_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2B62316-9D2E-4B56-8EBC-16F11F116672}|ClientProj\\ClientProj.vcxproj|C:\\Users\\PC00\\Desktop\\git_0612\\ClientProj\\ClientProj\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B2B62316-9D2E-4B56-8EBC-16F11F116672}|ClientProj\\ClientProj.vcxproj|solutionrelative:ClientProj\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,14 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\git\\ClientProj\\ClientProj\\main.cpp",
-              "RelativeDocumentMoniker": "ClientProj\\main.cpp",
-              "ToolTip": "C:\\Users\\PC00\\Desktop\\git\\ClientProj\\ClientProj\\main.cpp",
-              "RelativeToolTip": "ClientProj\\main.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAA2AAAAAAAAAA==",
+              "Title": "final_main.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\git_0612\\ClientProj\\ClientProj\\final_main.cpp",
+              "RelativeDocumentMoniker": "ClientProj\\final_main.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\git_0612\\ClientProj\\ClientProj\\final_main.cpp",
+              "RelativeToolTip": "ClientProj\\final_main.cpp",
+              "ViewState": "AgIAAIMBAAAAAAAAAAAAAJgBAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-22T04:19:18.198Z",
+              "WhenOpened": "2025-06-12T06:50:20.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clientmanager_main.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\git_0612\\ClientProj\\ClientProj\\clientmanager_main.cpp",
+              "RelativeDocumentMoniker": "ClientProj\\clientmanager_main.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\git_0612\\ClientProj\\ClientProj\\clientmanager_main.cpp",
+              "RelativeToolTip": "ClientProj\\clientmanager_main.cpp",
+              "ViewState": "AgIAAMMBAAAAAAAAAAAAANgBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T05:01:27.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\PC00\\Desktop\\git_0612\\ClientProj\\ClientProj\\main.cpp",
+              "RelativeDocumentMoniker": "ClientProj\\main.cpp",
+              "ToolTip": "C:\\Users\\PC00\\Desktop\\git_0612\\ClientProj\\ClientProj\\main.cpp",
+              "RelativeToolTip": "ClientProj\\main.cpp",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAHcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-12T04:56:14.466Z",
               "EditorCaption": ""
             }
           ]

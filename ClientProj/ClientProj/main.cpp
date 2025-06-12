@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 using namespace std;
+/*
 
 class Client {
 public:
@@ -116,3 +117,4 @@ int main() {
 
 	return 0;
 }
+*/

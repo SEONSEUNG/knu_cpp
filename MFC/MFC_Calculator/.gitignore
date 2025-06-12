@@ -1,0 +1,62 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.VC.db
+*.vc.db
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# C++ cache files
+*.pch
+*.pdb
+*.ipch
+*.obj
+*.tlog
+*.log
+*.tmp
+
+# Others
+*.cache
+*.class
+*.psess
+*.vsp
+*.vspx
+*.ncb
+*.opensdf
+*.sdf
+
+# Auto-generated files
+*.exe
+*.dll
+*.lib
+*.exp
+*.iobj
+*.ipdb
+
+# Backup & hidden files
+*~
+*.bak
+*.old
+*.orig
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Folder config files
+Desktop.ini
+$RECYCLE.BIN/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
